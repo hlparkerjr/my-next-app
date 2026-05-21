@@ -20,8 +20,7 @@ export default function About() {
           <div className="bg-slate-700 bg-opacity-50 rounded-lg p-8 space-y-4">
             <h2 className="text-3xl font-bold">Who I Am</h2>
             <p className="text-slate-200 leading-relaxed">
-              This is your About page. Replace this text with your own bio, background, or story.
-              Make it personal. Tell people what you do, what you care about, and what drives you.
+              My name is Henry L. Parker, Jr. and I'm learning how to build a website with Next.js
             </p>
           </div>
 
